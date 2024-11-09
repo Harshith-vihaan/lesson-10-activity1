@@ -1,0 +1,23 @@
+body{
+    background-image: url("solar system.gif");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: floralwhite;
+    
+}
+
+h1{
+    color: aquamarine;
+    background-color: black;
+    text-decoration: underline;
+}
+
+a{
+    color: black;
+    background-color: cyan;
+}
+
+a:hover{
+    color: blue;
+}
